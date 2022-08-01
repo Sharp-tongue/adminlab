@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: Main
+keyAuth: false
+password: safeharness:qoe2whdPScufp7ZKbZ4jtA
+url: https://github.com/Sharp-tongue/adminlab.git
+urlType: REPO
+username: git
